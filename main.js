@@ -8,5 +8,6 @@ let age = 50;
 const name = "Mileena";
 const isCool = true;
 const rating = 4.5; 
-
+const numbers = new Array(1,3, 4, 5);
 console.log(age);
+console.log(numbers)
