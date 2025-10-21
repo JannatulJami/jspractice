@@ -49,7 +49,14 @@ var FirstName = "Maya";
 var LastLetterOffOfFirstName = FirstName[FirstName.length - 1];
 function wordBlanks(myNoun, myAdjective, myVerb) {
     var result ="";
-    
+    result += "The ", myAdjective, myNoun, myVerb + "To the store " + myAdventure;
     return result;
 } 
-console.log(wordBlanks("dog", "big", "ran", "quickly"));
+console.log(wordBlanks("dog", "big", "ran"));
+var myArray = [[1,2,3], [4,5,6], [7,8,9] [[10, 11, 12], 13, 14, 15]];
+var myData = myArray[2][1];
+console.log(myData);
+myArray.push([72, 73]);
+
+var myGlobal = 10;
+function
