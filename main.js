@@ -15,7 +15,7 @@ const person = {
     lastName: "Mack",
     age: 30,
     hobbies: ["painting", "writing"]
-}
+};
 const todos = {
     {
         id: 1,
@@ -29,8 +29,8 @@ const todos = {
     }
    
 }
-var myStr = "I am a \"adouble quoted\" string"
-var thisStr = 'Hello "this is a quote"'
+var myStr = "I am a \"adouble quoted\" string";
+var thisStr = 'Hello "this is a quote"';
 console.log(age); 
 console.log(numbers);
 /******
@@ -45,5 +45,11 @@ console.log(numbers);
 \f form feed
  * *****/
 
- var FirstName = "Maya"
- var LastLetterOffOfFirstName = FirstName[FirstName.length - 1]
+var FirstName = "Maya";
+var LastLetterOffOfFirstName = FirstName[FirstName.length - 1];
+function wordBlanks(myNoun, myAdjective, myVerb) {
+    var result ="";
+    
+    return result;
+} 
+console.log(wordBlanks("dog", "big", "ran", "quickly"));
