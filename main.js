@@ -29,6 +29,6 @@ const todos = {
     }
    
 }
-
+var myStr = "I am a \"adouble quoted\" string"
 console.log(age);
 console.log(numbers)
