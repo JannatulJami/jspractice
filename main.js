@@ -30,5 +30,19 @@ const todos = {
    
 }
 var myStr = "I am a \"adouble quoted\" string"
-console.log(age);
+var thisStr = 'Hello "this is a quote"'
+console.log(age); 
 console.log(numbers)
+/******
+ CODE OUTPUT
+ \' single quote
+ \"double quote
+ \\ backslash
+\n new line
+\r carriage retrun
+\t tab
+\b bakcspace
+\f form feed
+ * *****/
+
+ 
