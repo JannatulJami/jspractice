@@ -32,7 +32,7 @@ const todos = {
 var myStr = "I am a \"adouble quoted\" string"
 var thisStr = 'Hello "this is a quote"'
 console.log(age); 
-console.log(numbers)
+console.log(numbers);
 /******
  CODE OUTPUT
  \' single quote
@@ -45,4 +45,5 @@ console.log(numbers)
 \f form feed
  * *****/
 
- 
+ var FirstName = "Maya"
+ var LastLetterOffOfFirstName = FirstName[FirstName.length - 1]
