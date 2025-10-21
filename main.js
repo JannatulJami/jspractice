@@ -11,9 +11,9 @@ const rating = 4.5;
 const numbers = new Array(1,3, 4, 5);
 const fruits = ["apples", "oranges", "watermelons"];
 const person = {
-    firstName: "Kate",
+    firstName: 'Kate',
     lastName: "Mack",
-    age: 30;
+    age: 30,
     hobbies: ["painting", "writing"]
 }
 const todos = {
