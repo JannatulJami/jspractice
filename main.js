@@ -94,4 +94,5 @@ function orderMyLogic(val) {
     } else if (strokes <= par - 1) {
         return names[2];
     }
+    return "Change Me";
 }
